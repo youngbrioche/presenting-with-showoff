@@ -1,7 +1,6 @@
 !SLIDE 
 # Präsentieren mit<br>ShowOff
 ![Präsentieren mit ShowOff](showoff.gif)
-<script>timed(20000);</script>
 
 !SLIDE center
 # So viele gute Tools
